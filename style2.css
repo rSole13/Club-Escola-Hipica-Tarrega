@@ -37,7 +37,7 @@ p{
     justify-content: center;
     align-items: center;
     margin: 1rem 0;
-    background-color: #ea242b;
+    background-color: #ffe0de;
     
 }
 
@@ -139,7 +139,7 @@ summary{
 
 .contenedor3{
     margin: 0;
-    background-color: #ea242b;
+    background-color: #ffe0de;
     padding: 2rem;
     display: flex;
     justify-content: center;
